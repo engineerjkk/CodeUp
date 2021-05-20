@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main()
+{
+	printf("πÆ¿Â");
+
+	return 0;
+}
